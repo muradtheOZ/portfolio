@@ -1,0 +1,112 @@
+body h1,h2{
+    font-family: 'Bebas Neue', cursive;
+}
+body p,h3{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    padding-top: 10px;
+}
+h1{
+    font-size: 80px;
+    line-height: 40px;
+    font-weight: 400;
+}
+.bottom-less{
+    margin-bottom: 0px;
+}
+h2{
+    font-size: 48px;
+    font-weight: 700;
+}
+.blue-shade{
+    color: #363958;
+}
+.orange-shade{
+    color:#FF8367;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding :2%;
+    margin-left: 5%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.one-third{
+    width: 26%;
+    float: left;
+    padding:2%;
+    margin-left: 3%;
+
+}
+.one-third img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 18px  56px;
+    color: whitesmoke;
+    font-weight:500;
+    border-radius: 15px;
+    font-size: 16px;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    font-family:'Roboto', sans-serif;
+}
+.link-button a{
+    margin: 20px 0px;
+}
+p{
+    margin-bottom: 10%;
+}
+section{
+
+    height:500px;
+    padding-bottom: 150px;
+}
+.lower-mid-section{
+    background-color: whitesmoke;
+}
+.single-showcase-block{
+    border-radius: 14px;
+    height:50%;
+    background-color: white;
+}
+.lets-chat{
+    background-image:url(images/chatback.png);
+    background-position: float;
+    background-repeat: no-repeat;
+    background-size:100%;
+    height: 250px;
+    margin:5% 15%;
+    color:white;
+    
+
+}
+.lets-chat h2{
+    font-size: 64px;
+    float: left;
+    font-weight: 400;
+   padding: 10px 15px;
+}
+.lets-chat .link-button {
+   
+    text-align: center;
+    float:right;
+    width:100px;
+    margin: 7% 10%;
+    padding:15px 15px;
+}
+
+.lower-mid-section{
+    height: 500px;
+}
+.lower-mid-section h2{
+    text-align: center;
+    font-weight: 400;
+    margin-top:10%;
+    padding: 30px;
+
+}
