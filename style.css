@@ -59,6 +59,17 @@ h2{
 .link-button a{
     margin: 20px 0px;
 }
+.small-button{
+    text-decoration: none;
+    margin: 5px 4px;
+    padding: 1px  3px;
+    color: whitesmoke;
+    font-weight:500;
+    border-radius: 3px;
+    font-size: 16px;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    font-family:'Roboto', sans-serif;
+}
 p{
     margin-bottom: 10%;
 }
@@ -72,7 +83,6 @@ section{
 }
 .single-showcase-block{
     border-radius: 14px;
-    height:50%;
     background-color: white;
 }
 .lets-chat{
